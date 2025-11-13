@@ -1,4 +1,4 @@
-#Get Solana Block
+<h1>#Get Solana Block</h1>
 Este codigo es para la creacion de un json para obtener la informacion de un bloque en especifico
 
 Ej.
